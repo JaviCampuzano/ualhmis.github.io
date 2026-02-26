@@ -1,87 +1,94 @@
 ## Herramientas y Métodos IS
 
-## Páginas de equipo HMIS 2025
+## Páginas de equipo HMIS 2026
 
 | id | Nombre estudiante | Equipo | Usuario GitHub |
 |----|--------------------|--------|----------------| 
-| 1	 | 	A. F. ALEJANDRO	 | 10 | aaf925 |
+| 1	 | 	A. R. VICTOR	 |  |  |
 | | | | |
-| 2	 | 	C. R. ANTONIO	 | Equipo 05 | https://github.com/acr360 |
+| 2	 | 	A. G. SERGIO	 |  |  |
 | | | | |
-| 3	 | 	C. C. DIEGO	 | Equipo 05 | https://github.com/dcc0230 |
+| 3	 | 	A. A. DANIEL	 |  |  |
 | | | | |
-| 4	 | 	C. M. MARY-ANNE	 | Equipo 09 | ualmc312 |
+| 4	 | 	A. N. PEDRO JAVIER	 |  |  |
 | | | | |
-| 5	 | 	D. A. PABLO	 | Equipo 03  | https://github.com/ualpda629   |
+| 5	 | 	B. G. GABIJUS	 |  |  |
 | | | | |
-| 6	 | 	D. V. OLIVER	 | 09 | UALodv717 |
+| 6	 | 	C. G. ANGEL	 |  |  |
 | | | | |
-| 7	 | 	E. R. ABDELAZIZ	 | Equipo 05 | https://github.com/aer234 |
+| 7	 | 	C. G. JAVIER	 |  |  |
 | | | | |
-| 8	 | 	E. M. JUAN FRANCISCO	 |  |  |
+| 8	 | 	C. Q. CRISTOBAL	 |  |  |
 | | | | |
-| 9	 | 	F. M. ISMAEL	 | 17  | ifm562-ual ó EngineerIsmaelFernandezMendez  |
+| 9	 | 	C. F. DAVID	 |  |  |
 | | | | |
-| 10	 | 	F. R. JUAN JOSE	 | Equipo 08 | ualjfr498 |
+| 10	 | 	D. V. MARTIN	 |  |  |
 | | | | |
-| 11	 | 	G. G. ANTONIO	 | 13 | https://github.com/ualagg860 |
+| 11	 | 	E. C. MARCOS	 |  |  |
 | | | | |
-| 12	 | 	G. M. JESUS DAVID	 | Equipo 17 | SusjeJD |
+| 12	 | 	E. B. JUAN FRANCISCO	 |  |  |
 | | | | |
-| 13	 | 	G. V. SERGIO	 | Equipo 07 | sgv396 |
+| 13	 | 	E. P. IVAN	 |  |  |
 | | | | |
-| 14	 | 	G. M. JORGE	 | 10 | jgm847 |
+| 14	 | 	E. M. JUAN FRANCISCO	 |  |  |
 | | | | |
-| 15	 | 	G. P. DAVID	 | Equipo 08 | dgp336 |
+| 15	 | 	G. A. LUIS	 |  |  |
 | | | | |
-| 16	 | 	G. Q. ALEX	 | Equipo 14 | https://github.com/agq495  |
+| 16	 | 	G. L. JORGE	 |  |  |
 | | | | |
-| 17	 | 	M. G. ADRIAN	 | Equipo 07 | https://github.com/ualamg538 |
+| 17	 | 	G. M. JESUS DAVID	 |  |  |
 | | | | |
-| 18	 | 	M. G. RAUL	 | Equipo 01 | https://github.com/ualrmg429 |
+| 18	 | 	G. R. VICTOR	 |  |  |
 | | | | |
-| 19	 | 	M. M. ADRIAN FIKRET	 |  |  |
+| 19	 | 	H. K. SALMA	 |  |  |
 | | | | |
-| 20	 | 	M. S. MIGUEL ANGEL	 | 13 | https://github.com/ualmms172 |
+| 20	 | 	H. M. MOHAMED	 |  |  |
 | | | | |
-| 21	 | 	M. L. JULIAN	 |  |  |
+| 21	 | 	L. E. MARIA	 |  |  |
 | | | | |
-| 22	 | 	M. I. JOSE	 | 4 | ualjmi240 |
+| 22	 | 	M. G. PABLO	 |  |  |
 | | | | |
-| 23	 | 	N. M. ANTONIO RAFAEL	 | 10 | anm0200 |
+| 23	 | 	M. L. JULIAN	 |  |  |
 | | | | |
-| 24	 | 	N. R. GIOVANNA YAMILE	 | 4 | ualgnr267 |
+| 24	 | 	M. M. MARIAN IONUT	 |  |  |
 | | | | |
-| 25	 | 	O. M. ANTONIO	 | Equipo 01 | https://github.com/aom387ISO |
+| 25	 | 	M. R. JESUS	 |  |  |
 | | | | |
-| 26	 | 	O. R. ALEJANDRO	 | Equipo 14 | https://github.com/ualaor983 |
+| 26	 | 	M. C. EMILIO	 |  |  |
 | | | | |
-| 27	 | 	P. V. MANUEL	 |  |  |
+| 27	 | 	O. R. IVAN	 |  |  |
 | | | | |
-| 28	 | 	P. F. FRANCO SERGIO	 | Equipo 08 | ualfsp323 |
+| 28	 | 	P. S. CARMEN MARIA	 |  |  |
 | | | | |
-| 29	 | 	P. G. JOSE ESTEBAN	 | 12 | jpg486 |
+| 29	 | 	R. L. BRUNO	 |  |  |
 | | | | |
-| 30	 | 	Q. S. MANUEL	 | 2 | ualmqs562 |
+| 30	 | 	R. S. JORGE	 |  |  |
 | | | | |
-| 31	 | 	R. G. ABEL	 | 3 | arg331 |
+| 31	 | 	R. E. SERGIO ALEJANDRO	 |  |  |
 | | | | |
-| 32	 | 	R. A. ANDRES	 | equipo 07 | ara584 |
+| 32	 | 	R. P. ARTURO	 |  |  |
 | | | | |
-| 33	 | 	S. H. JOSE ANTONIO	 |  |  |
+| 33	 | 	R. H. VICTOR	 |  |  |
 | | | | |
-| 34	 | 	S. B. FRANCISCO	 | 2 | ualfsb392 |
+| 34	 | 	S. G. JAVIER	 |  |  |
 | | | | |
-| 35	 | 	T. R. ANGEL	 |  |  |
+| 35	 | 	S. Z. MARIA CAMILA	 |  |  |
 | | | | |
-| 36	 | 	V. U. VICTOR	 | 12 | vvu981 |
+| 36	 | 	S. E. ANGEL	 |  |  |
 | | | | |
-| 37	 | 	V. H. JUAN DE DIOS	 |  |  |
+| 37	 | 	U. A. DAVID	 |  |  |
+| | | | |
+| 38	 | 	V. H. JUAN DE DIOS	 |  |  |
+| | | | |
+| 39	 | 	V. G. DIOGO	 |  |  |
+| | | | |
+| 40	 | 	Z. J. TEO	 |  |  |
 | | | | |
 Prof | C. M. J. Joaquin | ualhmis | http://github.com/ualjjcanada  |
 
 
 ## Páginas de cursos anteriores
+* [HMIS 2025](index2025.md)
 * [HMIS 2024](index2024.md)
 * [HMIS 2023](index2023.md)
 * [HMIS 2022](index2022.md)
