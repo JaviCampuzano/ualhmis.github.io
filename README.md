@@ -6,7 +6,7 @@
 |----|--------------------|--------|----------------| 
 | 1	 | 	A. R. VICTOR	 | 8 | ualvar500 |
 | | | | |
-| 2	 | 	A. G. SERGIO	 |  |  |
+| 2	 | 	A. G. SERGIO	 | 8 | ualsag854 |
 | | | | |
 | 3	 | 	A. A. DANIEL	 |  |  |
 | | | | |
@@ -14,13 +14,13 @@
 | | | | |
 | 5	 | 	B. G. GABIJUS	 |  |  |
 | | | | |
-| 6	 | 	C. G. ANGEL	 |  |  |
+| 6	 | 	C. G. ANGEL	 | 1 | [ualacg019](https://github.com/ualacg019) |
 | | | | |
 | 7	 | 	C. G. JAVIER	 | Equipo 16 | JaviCampuzano |
 | | | | |
-| 8	 | 	C. Q. CRISTOBAL	 |  |  |
+| 8	 | 	C. Q. CRISTOBAL	 | 8 | ualccq314 |
 | | | | |
-| 9	 | 	C. F. DAVID	 |  |  |
+| 9	 | 	C. F. DAVID	 | Equipo 2 | dcf313 |
 | | | | |
 | 10	 | 	D. V. MARTIN	 |  |  |
 | | | | |
@@ -34,11 +34,11 @@
 | | | | |
 | 15	 | 	G. A. LUIS	 |  |  |
 | | | | |
-| 16	 | 	G. L. JORGE	 |  |  |
+| 16	 | 	G. L. JORGE	 | 1 | https://github.com/Jgl968 |
 | | | | |
 | 17	 | 	G. M. JESUS DAVID	 |  |  |
 | | | | |
-| 18	 | 	G. R. VICTOR	 |  |  |
+| 18	 | 	G. R. VICTOR	 |Equpo 16  |vgr004-ual  |
 | | | | |
 | 19	 | 	H. K. SALMA	 |  |  |
 | | | | |
@@ -46,19 +46,19 @@
 | | | | |
 | 21	 | 	L. E. MARIA	 |  |  |
 | | | | |
-| 22	 | 	M. G. PABLO	 |  |  |
+| 22	 | 	M. G. PABLO	 | 20 | ualpmg943 |
 | | | | |
 | 23	 | 	M. L. JULIAN	 |  |  |
 | | | | |
 | 24	 | 	M. M. MARIAN IONUT	 |  |  |
 | | | | |
-| 25	 | 	M. R. JESUS	 |  |  |
+| 25	 | 	M. R. JESUS	 | 14 | jmr0077 |
 | | | | |
 | 26	 | 	M. C. EMILIO	 |  |  |
 | | | | |
-| 27	 | 	O. R. IVAN	 |  |  |
+| 27	 | 	O. R. IVAN	 | 3 | ImJincod |
 | | | | |
-| 28	 | 	P. S. CARMEN MARIA	 |  |  |
+| 28	 | 	P. S. CARMEN MARIA	 | 14 | ualcps071 |
 | | | | |
 | 29	 | 	R. L. BRUNO	 |  |  |
 | | | | |
@@ -72,15 +72,15 @@
 | | | | |
 | 34	 | 	S. G. JAVIER	 |  |  |
 | | | | |
-| 35	 | 	S. Z. MARIA CAMILA	 |  |  |
+| 35	 | 	S. Z. MARIA CAMILA	 | 15 | msz016 |
 | | | | |
-| 36	 | 	S. E. ANGEL	 |  |  |
+| 36	 | 	S. E. ANGEL	 | Equipo 2 | ualase444 |
 | | | | |
-| 37	 | 	U. A. DAVID	 |  |  |
+| 37	 | 	U. A. DAVID	 | 14 | BaaLial12 |
 | | | | |
 | 38	 | 	V. H. JUAN DE DIOS	 |  |  |
 | | | | |
-| 39	 | 	V. G. DIOGO	 |  |  |
+| 39	 | 	V. G. DIOGO	 | 18 | Ualdvg922 |
 | | | | |
 | 40	 | 	Z. J. TEO	 |  |  |
 | | | | |
